@@ -1,21 +1,21 @@
-1. Friend's Name - Praveen
-2. Adjective - good
-3. Adjective - bad
-4. Color - blue
-5. Month - June
-6. Number - 27
-7. Noun (Plural) - apples
+1. Friend's Name
+2. Adjective
+3. Adjective
+4. Color
+5. Month
+6. Number
+7. Noun (Plural)
 8. Noun (Plural) - mobiles
 9. Noun - India
 10. Room Name - bathroom
 11. Liquid - thumbs up
-12. Adjective - great
-13. Material - cotton
-14. Activity - jogging
-15. Adverb - fastly
-16. Number - 42
-17. Unit of Time - seconds
-18. Different Activity - swimming
-19. Adjective - bright
-20. Vehicle - car
-21. Your Name - Kiran
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
+16. Number
+17. Unit of Time
+18. Different Activity
+19. Adjective
+20. Vehicle
+21. Your Name
