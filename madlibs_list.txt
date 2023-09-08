@@ -5,10 +5,10 @@
 5. Month
 6. Number
 7. Noun (Plural)
-8. Noun (Plural) - mobiles
-9. Noun - India
-10. Room Name - bathroom
-11. Liquid - thumbs up
+8. mobiles
+9. India
+10. bathroom
+11. thumbs up
 12. Adjective
 13. Material
 14. Activity
