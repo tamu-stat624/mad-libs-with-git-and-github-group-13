@@ -14,8 +14,8 @@
 14. Activity
 15. Adverb
 16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. Unit of Time (second)
+18. Different Activity (driving)
+19. Adjective (Fast)
+20. Vehicle (Car)
+21. Your Name (Ramesh)
