@@ -5,8 +5,8 @@
 5. Month
 6. Number
 7. Noun (Plural)
-8. Noun (Plural) - bikes
-9. Noun - India
+8. bikes
+9. India
 10. Room Name - bathroom
 11. Liquid - thumbs up
 12. Adjective
