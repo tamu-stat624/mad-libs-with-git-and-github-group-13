@@ -5,10 +5,10 @@
 5. Month
 6. Number
 7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+8. Noun (Plural) (bikes)
+9. Noun (India)
+10. Rome name (bedroom)
+11. Liquid (thumbs up)
 12. Adjective
 13. Material
 14. Activity
