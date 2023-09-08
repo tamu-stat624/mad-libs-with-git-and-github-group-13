@@ -5,17 +5,17 @@
 5. Month
 6. Number
 7. Noun (Plural)
-8. bikes
-9. India
-10. bathroom
-11. thumbs up
-12. Cruel
-13. Water
-14. Sleeping
-15. Blindly
-16. 10
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+8. Noun (Plural)
+9. Noun
+10. Room Name
+11. Liquid
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
+16. Number
+17. Unit of Time (second)
+18. Different Activity (driving)
+19. Adjective (Fast)
+20. Vehicle (Car)
+21. Your Name (Ramesh)
